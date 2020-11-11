@@ -1,7 +1,8 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 [![Header](https://github.com/AlexThundrous/AlexThundrous/blob/master/readme_header.jpg?raw=true)]
 
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Alex, a Star Wars geek and a noob
 
