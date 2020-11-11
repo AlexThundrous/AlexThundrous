@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-I am Alex a star wars geek and a noob
+I am Alex a Star Wars geek and a noob
 
 # <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AlexThundrous&theme=tokyonight&show_icons=true"/>
 
