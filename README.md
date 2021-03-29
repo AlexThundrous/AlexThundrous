@@ -22,9 +22,9 @@ You can find me on  [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
+[1.2]: https://badgen.net/badge/icon/twitter?icon=twitter&label
 
-<!-- Links to your social media accounts -->
+<!-- Links to my social media accounts -->
 
 [1]: https://twitter.com/realthundrous21
 
